@@ -35,4 +35,20 @@ function squareSum(numbers){
 console.log("Square Sum:", result);
 
 ```
+***
+### Education
++ University:
+          + Odessa State Economic University, International economy faculty
++ Courses:
+         + Tomsk State University, “Web-programming”
+         + Udemy, “HTML + CSS”
+         + Stepik, “JavaScript”
+         + School 21, intensive
+         + Rolling Scopes, “JavaScript/Front-end”
+***
+### Languages
++ Russian (native)
++ English (intermediate)
+***
+
 
