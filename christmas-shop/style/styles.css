@@ -1,0 +1,168 @@
+/*@media  screen and (max-width: 1440px)*/
+* {
+    text-decoration: none;
+}
+.header1 {
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 150%;
+    letter-spacing: 18%;
+    text-transform: uppercase;
+}
+.header2 {
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 152%;
+    letter-spacing: 16%;
+    text-transform: uppercase;
+}
+header {
+    height: 64px;
+    background-color: #FFFFFF;
+}
+
+nav /*ul li*/ {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #181C29;
+    margin: 20px;
+    padding: 8px;
+}
+ul li {
+    display: inline-block;
+    list-style-type: none;
+    font-family: Montserrat;
+}
+body {
+    width: 1440px;
+    /*display: flex;
+    justify-content: center;*/
+    background-color: #FF4646;
+    margin: 0;
+    padding: 0;
+}
+.hero {
+    background-image: url("C:/Users/Катечка/Documents/rsschool/christmas-shop/images/bg-ball.png");
+    background-position: center;
+    background-size: cover;
+    /*width: 1440px;*/
+    height: 524px;
+    display: flex;
+    justify-content: center;
+}
+.text_hero {
+    display: block;
+    padding: 120px;
+}
+button {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 235px;
+    height: 56px;
+    border-radius: 20px;
+    background-color: #181C29;
+    color: #FFFFFF;
+    text-align: center;
+    border: none;
+}
+.btn {
+    padding: 20px;
+}
+
+#about {
+    display: flex;
+    justify-content: space-around;
+    margin: 82px;
+    padding: 60px;
+    border-radius: 20px;
+}
+.about_text {
+    width: 638px;
+    height: 528px;
+    background-color: #FFFFFF;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    color: #181C29;
+}
+.about_text_strokes {
+   width: 426px;
+   height: 72px;
+   padding: 60px;
+}
+.caption_text {
+    font-family: Allura;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 100%;
+    letter-spacing: 5%;
+    color: #FF4646;
+}
+.caption_text_white {
+    color:#FFFFFF;
+    display: flex;
+    justify-content: center;
+    font-family: Allura;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 100%;
+    letter-spacing: 5%;
+}
+p {
+    font-family: Montserrat;
+    display: flex;
+    justify-content: center;
+    color:#181C29:
+}
+img .santa {
+    border-radius: 20px;
+}
+#best_gifts {
+    width: 1440px;
+}
+.best_gift {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1440px;
+}
+.toy {
+    width: 310px;
+    height: 230px;
+    background-color: #FFFFFF;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.white {
+    width: 310px;
+}
+.slider_text {
+    font-family: Montserrat;
+    font-size: 80px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.action_small {
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 130%;
+    letter-spacing: 5%;
+    text-transform: uppercase;
+    list-style: none;
+}
+.CTA {
+    background-image: url("C:/Users/Катечка/Documents/rsschool/christmas-shop/images/bg-forest.png");
+    width: 1440px;
+    height: 668px;
+}
+
+/*p {
+    color: #FFFFFF
+}*/
