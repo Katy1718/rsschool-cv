@@ -1,4 +1,3 @@
-/*@media  screen and (max-width: 1440px)*/
 * {
     text-decoration: none;
 }
@@ -45,7 +44,7 @@ body {
     padding: 0;
 }
 .hero {
-    background-image: url("C:/Users/Катечка/Documents/rsschool/christmas-shop/images/bg-ball.png");
+    background-image: url("/christmas-shop/images/bg-ball.png");
     background-position: center;
     background-size: cover;
     /*width: 1440px;*/
@@ -158,11 +157,8 @@ img .santa {
     list-style: none;
 }
 .CTA {
-    background-image: url("C:/Users/Катечка/Documents/rsschool/christmas-shop/images/bg-forest.png");
+    background-image: url("/christmas-shop/images/bg-forest.png");
     width: 1440px;
     height: 668px;
 }
 
-/*p {
-    color: #FFFFFF
-}*/
